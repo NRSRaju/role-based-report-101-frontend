@@ -1,0 +1,42 @@
+.report-viewer-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .report-viewer-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .report-viewer-header h2 {
+    font-size: 1.5rem;
+  }
+  
+  .report-content {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .report-content p {
+    margin-bottom: 15px;
+  }
+  
+  .report-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+  
+  .report-actions button {
+    background-color: #28a745;
+  }
+  
+  .report-actions button:hover {
+    background-color: #218838;
+  }
+  

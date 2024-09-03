@@ -1,0 +1,24 @@
+.reports-page-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .reports-page-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .reports-page-header h1 {
+    font-size: 2rem;
+  }
+  
+  .reports-page-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .reports-page-content > * {
+    flex: 1;
+  }
+  

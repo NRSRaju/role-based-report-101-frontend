@@ -1,0 +1,39 @@
+.share-report-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .share-report-header {
+    margin-bottom: 15px;
+  }
+  
+  .share-report-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .share-report-form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .share-report-form input,
+  .share-report-form select {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .share-report-form button {
+    background-color: #ffc107;
+    color: #fff;
+  }
+  
+  .share-report-form button:hover {
+    background-color: #e0a800;
+  }
+  
